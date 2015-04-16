@@ -2,5 +2,5 @@
 My Project
 ## Azi
 ### jn
-*kiu
-*ky
+* kiu
+* ky
